@@ -1,0 +1,1 @@
+This is a dict in chrome plugin.
